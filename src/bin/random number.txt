@@ -1,0 +1,4 @@
+generate a random number
+take input from the user (string form)
+convert it to integer
+compare with generated number

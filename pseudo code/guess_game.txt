@@ -1,0 +1,10 @@
+generate a random number(some signed or unsigned integer)
+loop:-
+take input from the user(string)
+count the number of guesses
+convert the input given by the user from string to integer
+use match to give hints to the user and check compare the numbers
+libraries/dependencies: 
+    - input => use std::io
+    - compare => use std::cmp::Ordering
+    - random number generation => use rand::RngExt
